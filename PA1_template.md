@@ -160,4 +160,4 @@ xyplot(aggMeans$steps ~ aggMeans$interval | aggMeans$dayType, type = "l", layout
        main = "Activity Levels - Weekdays vs Weekends", xlab = "Interval", ylab = "Number of steps")
 ```
 
-![](PA1_template_files/figure-html/weekDayEnd plot-1.png)<!-- -->
+![](PA1_template_files/figure-html/weekDayEndplot-1.png)<!-- -->
